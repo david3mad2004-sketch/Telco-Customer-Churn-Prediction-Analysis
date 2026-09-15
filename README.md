@@ -13,15 +13,3 @@ This project analyzes customer retention data from a telecommunications provider
 * **Data Processing:** Pandas, NumPy
 * **Visualization:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn (Random Forest Classifier, Feature Scaling, Metrics)
-
-## Repository Structure
-```text
-├── data/
-│   ├── raw_data.csv
-│   └── cleaned_data.csv
-├── notebooks/
-│   └── churn_analysis_eda_model.ipynb
-├── reports/
-│   └── Detailed_Project_Report.md
-├── README.md
-└── requirements.txt
